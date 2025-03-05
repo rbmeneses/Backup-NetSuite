@@ -38,7 +38,7 @@ Clone o Repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/backup-netsuite.git
+git clone https://github.com/rbmeneses/Backup-NetSuite.git
 Navegue até o Diretório do Projeto:
 
 bash
